@@ -7,7 +7,7 @@ The only data this app retrieves is:
 2. The API from http//worldtimeapi.org (http://worldtimeapi.org/api/ip) used to calculate offline rewards and check if the player had its Internet connection enabled or disabled, which determines if they can receive offline gains or not to prevent time cheating.
 3. The player's data stored in the Unity Cloud Service as a part of the Cloud Saving system.
 
-To request an account deletion from the Unity Cloud Service integrated with IdleTale, please send an e-mail to the email address stated at the bottom of this document including your Player ID (found in the Settings menu inside the game after logging in).
+To request an account deletion or data deletion from the Unity Cloud Service integrated with IdleTale, please send an e-mail to the email address stated at the bottom of this document including your Player ID (found in the Settings menu inside the game after logging in).
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
