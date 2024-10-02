@@ -1,5 +1,5 @@
 -Known issues:
--If you can't leave a Dungeon after failing it, update the game to the version 0.4.3 (139)
+-We're aware of an issue causing data loss upon an unexpected system shutdown. We're working to fix this as soon as possible.
 
 -IdleTale is now available on different platforms!
 
