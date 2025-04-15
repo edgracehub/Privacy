@@ -1,30 +1,13 @@
-Version 0.4.2: Heart of Darkness
+Version 0.5.0: Redemption
 
--Voideyes now stack buff time instead of refreshing it
--Maximum base offline progress increased from 2h to 4h
--The Bad Luck Shop now only sells items from Dungeons the player has cleared, at least, once
--Raid bosses damage reduced by 5%
--Changed the way Lifesteal works. Items will no longer grant a base Lifesteal amount - instead, there's a new Upgrade,  Blessing of Blackmoon, which grants +10 permanent Lifesteal
--Added a new Raid: Evercold Revolt
--Proc chance of Fission Blade and Iridus, Hammer of the Damned increased from 2% to 5%
--Added new Glory Upgrades
--Added the A Recipe of Death questline
--Added the Ashtar Catacombs Raid
--Added an option to skip Dungeons welcome text
--Lord Zinus the Melter and Zenith, Terror of the Depths now have a minimum cooldown for their meteor of 2s (was 1s)
--Maximum default offline time increased from 4h to 24h
--Upgrades that would give additional offline time now give 10x more max offline time
--Assault Machine no longer grants the ability to hold the screen to keep attacking
--New Upgrade added: Servo-Arm
--Fixed a bug that would prevent specific Achievements to trigger inside Fireblood Cliffs and (Deadly) Fireblood Cliffs
--Drop rates of Special items in lower level Dungeons increased by 100%
-
-Bug fixes:
--Fixed a bug where Dusk Watchers wouldn't count towards general enemy kill quests
--Fixed a bug where Incriminating Paper would not display its tooltip in Scientific Notation
--Fixed a bug where Cinderspark Staff would show a "0" as its weapon type
--The Save system has been improved to avoid data corruption when phones run out of battery or suddenly turn off. It has also been modified so that it's no longer needed to put the saved file in both ("Saves" and "BackUps") folders when moving saved games between devices and/or versions. Putting the saved file in only one of them will work
--Fixed a bug where the Grim Reaper would have no hitbox in Android devices
--Fixed a bug where the Attack Power increase from Upgrades or Talents that boost it depending on the player's Power Level would return incorrect values.
--Fixed a bug where buying items from the Bad Luck Shop wouldn't trigger progression on quests that require unlocking Armory items.
--(For real) fixed a bug where the Raids wouldn't reset if the game is open when the reset happens.
+-Deadly Quests cost reduced by 50%.
+-Added a new version of Ashtar Catacombs.
+-The Heart of Darkness now reacts to the player's power.
+-Added new Quests.
+-IdleTale now has a Launcher! You can choose to launch the game through the Launcher or directly execute the game in Steam.
+-Added the Redemption system.
+-Added the first four Spirits.
+-Added new Glory Upgrades.
+-Added new Maps.
+-Added new Gains Upgrades.
+-Added new Upgrades.
