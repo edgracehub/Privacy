@@ -15,7 +15,13 @@ Version 0.5.0: Redemption
 -Deadly Quests cost decreased by 90%.
 -All raids have seen their bosses' damage decreased by roughly 20% and their health by 30%.
 -All raids have roughly 30% less enemy waves.
+-Changing map zones will also change the Codex page automatically
+-Offline Gold gains are now the same as online gains (was 50%).
+-Offline Glory gains have been increased by 100%.
+-Offline XP gains have been increased by 500% (yes, it's not wrong)
 
 Bug fixes:
 -Fixed a bug where the player could attack (though with no effect) during the Ascension cutscene.
 -Fixed a bug where the developer was too slow releasing updates.
+-Fixed a visual bug that would display twice as much the actual Redemption level
+-Fixed a typo bug in the Executioner Glory Upgrade's description. An "e" has been removed from the code forever.
