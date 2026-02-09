@@ -4,7 +4,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The only data this app retrieves is:
 1. The local date and time when the game was saved (it saves automatically every few seconds, on quit and when put in the background), which is used later to calculate the in-game benefits you get after spending a long time without playing (this is an idle game and you get more rewards the longer you don't play).
-2. The API from http//worldtimeapi.org (http://worldtimeapi.org/api/ip) used to calculate offline rewards and check if the player had its Internet connection enabled or disabled, which determines if they can receive offline gains or not to prevent time cheating. Used in-app and for the time of the saved data.
+2. The API from timeapi.bio (https://timeapi.bio) used to calculate offline rewards and check if the player had its Internet connection enabled or disabled, which determines if they can receive offline gains or not to prevent time cheating. Used in-app and for the time of the saved data.
 3. The app retrieves the current game's version through reading the text in this GitHub file https://raw.githubusercontent.com/edgracehub/Privacy/main/version.
 4. The app retrieves the text for the "News" section found in the title screen through reading the text in this GitHub file https://raw.githubusercontent.com/edgracehub/Privacy/main/news.
 5. The player's data stored in the Unity Cloud Service as a part of the Cloud Saving system.
