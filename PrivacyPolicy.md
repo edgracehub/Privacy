@@ -4,10 +4,10 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The only data this app retrieves is:
 1. The local date and time when the game was saved and upon starting the game (it saves automatically every few seconds, on quit and when put in the background), which is used later to calculate the in-game benefits you get after spending a long time without playing (this is an idle game and you get more rewards the longer you don't play).
-3. The app retrieves the current game's version through reading the text in this GitHub file https://raw.githubusercontent.com/edgracehub/Privacy/main/version.
-4. The app retrieves the text for the "News" section found in the title screen through reading the text in this GitHub file https://raw.githubusercontent.com/edgracehub/Privacy/main/news.
-5. The player's data stored in the Unity Cloud Service as a part of the Cloud Saving system.
-6. The dimensions of the device's screen to calculate the scale and position of the User Interface inside the game.
+2. The app retrieves the current game's version through reading the text in this GitHub file https://raw.githubusercontent.com/edgracehub/Privacy/main/version.
+3. The app retrieves the text for the "News" section found in the title screen through reading the text in this GitHub file https://raw.githubusercontent.com/edgracehub/Privacy/main/news.
+4. The player's data stored in the Unity Cloud Service as a part of the Cloud Saving system.
+5. The dimensions of the device's screen to calculate the scale and position of the User Interface inside the game.
 
 To request an account deletion or data deletion from the Unity Cloud Service integrated with IdleTale, please send an e-mail to the email address stated at the bottom of this document including your Player ID (found in the Settings menu inside the game after logging in).
 
